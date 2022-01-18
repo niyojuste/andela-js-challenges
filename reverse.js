@@ -10,10 +10,4 @@ function reversing(arr) {
 	return rra
 }
 
-
-function reversed(arr) {
-	return arr.reverse()
-}
-
 console.log(reversing(arr))
-console.log(reversed(arr))
